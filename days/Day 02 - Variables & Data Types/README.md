@@ -14,7 +14,6 @@
 | 2 | `02_challenges.ipynb` | Solve exercises yourself, then run tests |
 | 3 | `notes.md` | Quick-reference while working |
 | 4 | `solution.py` | Only open AFTER attempting challenges |
-| 5 | `reflection.md` | Fill in before closing your laptop |
 
 ## Up next
 **Day 3:** String Manipulation
